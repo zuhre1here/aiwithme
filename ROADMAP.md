@@ -1,4 +1,4 @@
-1- Projemizin içeriğinden bahsederek grokta bunu yapmanın 10 yolunu aratıyoruz:
+1- Projemizin içeriğinden bahsederek önce Grok ile sorgulayıp daha sonra Gemini ile derin arama ile bunu yapmanın 10 yolunu aratıyoruz:
 Yapay Zeka Destekli Phishing Tespit Sistemi
 Amaç: E-posta ve web tabanlı phishing saldırılarını tespit eden bir yapay zeka tabanlı araç geliştirmek.
 Görevler:
