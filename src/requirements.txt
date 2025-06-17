@@ -1,0 +1,34 @@
+# Proje Araçları ve Kütüphaneleri
+
+## pandas
+**Kullanım Alanı:** Veri işleme ve manipülasyonu.  
+**Projedeki Rolü:**  
+- CSV dosyalarını okumak.  
+- E-posta verilerini DataFrame'ler halinde düzenlemek.  
+- Ön işleme adımlarında veriyi dönüştürmek.
+
+## scikit-learn
+**Kullanım Alanı:** Makine öğrenimi algoritmaları ve araçları.  
+**Projedeki Rolü:**  
+- Metin verilerinden sayısal özellikler çıkarmak için **TfidfVectorizer**.  
+- Veri kümesini eğitim ve test setlerine ayırmak için **train_test_split**.  
+- Kimlik avı tespiti modelini eğitmek için **LogisticRegression** sınıflandırıcısı.  
+- Modelin performansını değerlendirmek için:  
+  - Doğruluk (accuracy).  
+  - Kesinlik (precision).  
+  - Duyarlılık (recall).  
+  - F1 skoru.
+
+## nltk (Natural Language Toolkit)
+**Kullanım Alanı:** Doğal Dil İşleme (NLP) görevleri.  
+**Projedeki Rolü:**  
+- E-posta metinlerini temizleme fonksiyonunda:  
+  - Gereksiz "durak kelimeleri" (stop-words) kaldırmak.  
+  - Metni tek tek kelimelere ayırmak (tokenization).
+
+## joblib
+**Kullanım Alanı:** Python objelerini hızlı ve verimli bir şekilde disk üzerinde kaydetme ve yükleme.  
+**Projedeki Rolü:**  
+- Eğitilmiş **LogisticRegression** modelinin (`phishing_detection_simple_model.joblib`) depolanması ve geri yüklenmesi.  
+- **TfidfVectorizer**'ın (`tfidf_vectorizer.joblib`) depolanması ve geri yüklenmesi.  
+- Tahmin veya açıklama yapılırken bu dosyaların kullanılması.
