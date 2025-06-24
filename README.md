@@ -9,6 +9,8 @@
 
 # Yapay Zeka Destekli Kimlik Avı Tespit Sistemi
 
+https://github.com/user-attachments/assets/5299bac0-14f8-4e26-993e-0c79202e838b
+
 Yapay Zeka Destekli Kimlik Avı Tespit Sistemi projesi,
 e-posta ve web tabanlı kimlik avı saldırılarını yapay zeka ve 
 derin öğrenme (özellikle transformatör modelleri) kullanarak,
