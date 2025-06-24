@@ -9,6 +9,12 @@
 
 # Yapay Zeka Destekli Kimlik Avı Tespit Sistemi
 
+## Ses Dosyası
+
+<audio controls>
+  <source src="https://github.com/user-attachments/assets/8689051d-9489-4d35-aed6-baf928d8f60c" type="audio/mp4">
+</audio>
+
 https://github.com/user-attachments/assets/5299bac0-14f8-4e26-993e-0c79202e838b
 
 Yapay Zeka Destekli Kimlik Avı Tespit Sistemi projesi,
